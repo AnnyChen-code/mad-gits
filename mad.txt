@@ -1,8 +1,12 @@
-I have a pet ___DOG___ (noun) named Charles.
+I have a pet chicken (noun) named Charles.
 
 He is very wierd (adjective).
 
+<<<<<<< HEAD
 I feed him organic, locally sourced __produce____ (noun).
+=======
+I feed him organic, locally sourced chicken (noun).
+>>>>>>> f366d680efc81195f89ebdbb2f614b77ce06935e
 
 He is only about the size of my ___ ___ (noun).
 
