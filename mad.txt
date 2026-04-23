@@ -1,4 +1,4 @@
-I have a pet chicken (noun) named Charles.
+I have a pet cat (noun) named Charles.
 
 He is very wierd (adjective).
 
@@ -11,3 +11,5 @@ I feed him organic, locally sourced chicken (noun).
 He is only about the size of my ___ ___ (noun).
 
 I named him after my favorite fruits (noun).
+
+I added this line hahaha
